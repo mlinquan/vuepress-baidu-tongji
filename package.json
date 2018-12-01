@@ -1,14 +1,14 @@
 {
-  "name": "@vuepress/plugin-google-analytics",
-  "version": "1.0.0-alpha.25",
-  "description": "google-analytics plugin for vuepress",
+  "name": "vuepress-baidu-tongji",
+  "version": "1.0.0",
+  "description": "Baidu-tongji plugin for vuepress",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuepress.git"
+    "url": "git+https://github.com/mlinquan/vuepress-baidu-tongji.git"
   },
   "keywords": [
     "documentation",
@@ -16,10 +16,10 @@
     "vuepress",
     "generator"
   ],
-  "author": "ULIVZ <chl814@foxmail.com>",
+  "author": "LinQuan <i@linquan.name>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vuepress/issues"
+    "url": "https://github.com/mlinquan/vuepress-baidu-tongji/issues"
   },
-  "homepage": "https://github.com/vuejs/vuepress/packages/@vuepress/plugin-google-analytics#readme"
+  "homepage": "https://github.com/mlinquan/vuepress-baidu-tongji#readme"
 }

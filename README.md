@@ -14,7 +14,7 @@ yarn add -D vuepress-baidu-tongji
 ```javascript
 module.exports = {
   plugins: ['vuepress-baidu-tongji', {
-    ha: 'abcdefghijklmnopqrstuvwxyz123456'
+    hm: 'abcdefghijklmnopqrstuvwxyz123456'
   }]
 }
 ```
